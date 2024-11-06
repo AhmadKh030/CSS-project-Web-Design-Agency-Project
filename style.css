@@ -26,10 +26,10 @@ footer {
     background-color: #bae5d5;
   }
   .main .left {
-    display: block;
+    float: left;
   }
   .main .right {
-    display: block;
+    float: right;
   }
   img {
     width: 50%;
